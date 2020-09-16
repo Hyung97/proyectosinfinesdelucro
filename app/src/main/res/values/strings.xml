@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tiendita UwU</string>
+    <string name="nombre_producto">Producto</string>
+    <string name="buscar_producto">Buscar producto</string>
+    <string name="nombre_item_producto">Nombre del producto</string>
+    <string name="precio_item">Precio</string>
+    <string name="precio_item_cero">0.0</string>
+</resources>
